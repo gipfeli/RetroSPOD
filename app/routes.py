@@ -21,3 +21,6 @@ def index():
 		<h1>Hello ''' +user['username'] + '''!</h1>
 	</body>
 </html>'''
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0')
