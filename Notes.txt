@@ -1,0 +1,6 @@
+Note:
+
+- Using render_template (flask) to output template to routes.py
+- {{ fixed variable }}
+- {% %} control statements
+- {% extends "xxx.html" %} to declare the addtional info for {% block content %} in other xxx.html
